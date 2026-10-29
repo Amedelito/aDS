@@ -1,0 +1,6 @@
+# Velocidad maxima en bloques por tick (0.35 = 7 bloques/segundo)
+max-speed: 0.35
+# Aceleracion en bloques por tick^2 (mas bajo = arranque/frenada mas suave)
+acceleration: 0.015
+# Segundos que las puertas se quedan abiertas antes de cerrarse solas
+hold-seconds: 5
